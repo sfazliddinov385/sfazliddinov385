@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarvarbekfazliddinov/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sfazliddinov385@gmail.com)
-[![Sam's Club](https://img.shields.io/badge/Sam's_Club-Retail_Tech-0071CE?style=for-the-badge)](https://www.samsclub.com)
 
 ## 🚀 Currently Building at Walmart Global Tech
 Working with teams to create enterprise tools that impact millions of customers:
