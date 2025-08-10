@@ -1,8 +1,18 @@
 # Sarvarbek Fazliddinov
-**Software Engineer Intern @ Walmart Global Tech** | Developing practical solutions that improve efficiency and solve real problems
+**Software Engineer Intern @ Walmart Global Tech** | Building data-driven tools and automation that save time and reduce costs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarvarbekfazliddinov/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sfazliddinov385@gmail.com)
+
+---
+
+## 📈 Quick Highlights
+- **$722K+ in potential savings identified** through machine learning models  
+- **10+ hours/week saved** via automation pipelines  
+- **AWS Certified Cloud Practitioner** with strong cloud and data skills  
+- Experience delivering solutions at **Walmart Global Tech** that impact millions of customers
+
+---
 
 ## 🚀 Currently Building at Walmart Global Tech
 Working with teams to create enterprise tools that impact millions of customers:
