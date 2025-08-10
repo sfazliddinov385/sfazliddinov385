@@ -46,22 +46,22 @@ Business Impact:
 
 ## 💼 Professional Journey
 **Walmart Global Tech** | Software Engineer Intern  
-*Dec 2022 - May 2023 | Bentonville, Arkansas*  
-- Helped design and maintain internal tools  
-- Worked on automation to save time and reduce manual work  
-- Used JavaScript, C#, and other technologies
+*Dec 2022 - May 2023 | Bentonville, AR*  
+- Developed and maintained internal tools using JavaScript, C#, and modern frameworks, improving efficiency for enterprise teams.  
+- Automated workflows that saved 10+ hours per week and reduced manual reporting delays.  
+- Collaborated with cross-functional teams to design solutions impacting millions of customers.  
 
 **Ignite Professional Studies** | Information Technology Intern  
-*Aug 2022 - May 2023 | Bentonville, Arkansas*  
-- Developed Python-based automation  
-- Created simple technical presentations  
-- Worked on practical problem-solving
+*Aug 2022 - May 2023 | Bentonville, AR*  
+- Created Python automation scripts to streamline reporting and reduce manual data handling.  
+- Built technical presentations to explain solutions to both technical and non-technical audiences.  
+- Worked on real-world IT projects, improving communication, speed, and problem-solving efficiency.  
 
 **Little Rock West High School** | Computer Technician Intern  
-*Aug 2019 - May 2021 | Little Rock, Arkansas*  
-- Maintained PCs, networks, and mobile devices  
-- Provided troubleshooting for staff and students  
-- Learned basic network administration
+*Aug 2019 - May 2021 | Little Rock, AR*  
+- Maintained and repaired office PCs, networks, and mobile devices to ensure smooth operations.  
+- Provided troubleshooting support that reduced system downtime and improved reliability.  
+- Supported staff and students with technical issues, enhancing productivity and user satisfaction.  
 
 ## 🛠️ Technical Arsenal
 **Core Languages & Frameworks**  
