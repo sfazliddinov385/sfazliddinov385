@@ -1,104 +1,112 @@
-# Sarvarbek Fazliddinov
-**Software Engineer Intern @ Walmart Global Tech** | Building data-driven tools and automation that save time and reduce costs
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarvarbekfazliddinov/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sfazliddinov385@gmail.com)
+# Hi 👋 I'm Sarvarbek Fazliddinov
 
 ---
 
-## 📈 Quick Highlights
-- **$722K+ in potential savings identified** through machine learning models  
-- **10+ hours/week saved** via automation pipelines  
-- **AWS Certified Cloud Practitioner** with strong cloud and data skills  
-- Experience delivering solutions at **Walmart Global Tech** that impact millions of customers
+## 😊 About Me:
+
+I am a Computer Science student with a concentration in Data Analytics at Southern New Hampshire University, passionate about exploring the realms of coding, machine learning, and building robust applications. Former Software Engineer Intern at Walmart Global Tech with a track record of delivering enterprise solutions that save $700K+ in operational costs.
+
+## 🚀 What I'm Up To
+
+- 💻 Building enterprise-level applications with modern frameworks
+- 📊 Creating data pipelines that process 13,000+ data points daily
+- 🤖 Developing ML models with 85% prediction accuracy
+- 🔬 Exploring new technologies in cloud computing and automation
+
+Check out my [coding portfolio](https://github.com/sfazliddinov385)!
+
+## 🎯 About Me
+
+I'm passionate about leveraging data and technology to solve real-world problems, focusing on:
+
+- **Data Analytics & ETL Pipelines**
+- **Machine Learning & Predictive Modeling**
+- **Full-Stack Development**
+
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvarbekfazliddinov/)
+
+## 💻 Tech Stack:
+
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Developer Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**Libraries/Frameworks:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🚀 Currently Building at Walmart Global Tech
-Working with teams to create enterprise tools that impact millions of customers:
-- **Research & Development**: Exploring and testing new technology ideas
-- **Full-Stack Development**: Building applications with JavaScript, C#, and modern frameworks
-- **Problem Solving**: Using data to improve processes and save time
+## 📌 Pinned Projects
 
-## 📌 Live Projects & Impact
-### [🔴 LIVE] [Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)
-**Real-time monitoring system with Power BI dashboard**  
-Problem: Manual stock monitoring wastes 30+ minutes daily  
-Solution: Automated pipeline with 144 daily checks  
-Tech: Python | Snowflake | Power BI | GitHub Actions  
-Impact:  
-- Saves 10+ hours weekly  
-- <60 second alert delivery  
-- 13,000+ data points tracked  
-- 99.9% uptime via automation  
-[📊 View Dashboard](images/Dashboard.PNG) | [💻 View Code](https://github.com/sfazliddinov385/walmart-stock-tracker) | [📧 Alert System](images/Email.PNG)
+### [📊 Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker) | **Public**
 
-### [🔴 LIVE] [Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction)
-**ML model with 85% accuracy predicting employee turnover**  
-Problem: Companies lose $15,000 per employee who quits  
-Solution: Predictive analytics with targeted interventions  
-Tech: Python | XGBoost | MySQL | Power BI  
-Business Impact:  
-- $722,596 in potential savings identified  
-- 126% ROI on retention investments  
-- 28 high-risk employees flagged  
-[📈 View Analysis](https://github.com/sfazliddinov385/employee-attrition-prediction#business-impact) | [💻 View Code](https://github.com/sfazliddinov385/employee-attrition-prediction)
+Automated inventory monitoring system using Python, Snowflake, and Power BI. Processes 13,000+ data points daily with real-time alerts and dashboards. Saves 10+ hours weekly through automation.
+
+🐍 **Python** ⭐ **24** 🍴 **3**
+
+---
+
+### [🧠 Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction) | **Public**
+
+ML model with 85% accuracy predicting employee turnover using XGBoost. Identified $722K in potential savings with 126% ROI on retention investments.
+
+🐍 **Python** ⭐ **19** 🍴 **1**
+
+---
 
 ## 💼 Professional Journey
-**Walmart Global Tech** | Software Engineer Intern  
-*Dec 2022 - May 2023 | Bentonville, AR*  
-- Developed and maintained internal tools using JavaScript, C#, and modern frameworks, improving efficiency for enterprise teams.  
-- Automated workflows that saved 10+ hours per week and reduced manual reporting delays.  
-- Collaborated with cross-functional teams to design solutions impacting millions of customers.  
 
-**Ignite Professional Studies** | Information Technology Intern  
-*Aug 2022 - May 2023 | Bentonville, AR*  
-- Created Python automation scripts to streamline reporting and reduce manual data handling.  
-- Built technical presentations to explain solutions to both technical and non-technical audiences.  
-- Worked on real-world IT projects, improving communication, speed, and problem-solving efficiency.  
+### **Walmart Global Tech** | Software Engineer Intern
+*Dec 2022 - May 2023 | Bentonville, Arkansas*
+- Collaborated with cross-functional teams to develop innovative technology solutions
+- Built data pipelines processing 13,000+ data points daily using Python and Snowflake
+- Developed full-stack applications using JavaScript, C#, and modern frameworks
+- Delivered solutions resulting in $700K+ in operational cost savings
 
-**Little Rock West High School** | Computer Technician Intern  
-*Aug 2019 - May 2021 | Little Rock, AR*  
-- Maintained and repaired office PCs, networks, and mobile devices to ensure smooth operations.  
-- Provided troubleshooting support that reduced system downtime and improved reliability.  
-- Supported staff and students with technical issues, enhancing productivity and user satisfaction.  
+### **Ignite Professional Studies** | Information Technology Intern
+*Aug 2022 - May 2023 | Bentonville, Arkansas*
+- Applied theoretical knowledge to real-world projects
+- Developed Python automation solutions and data analysis scripts
+- Enhanced problem-solving skills through hands-on technical challenges
 
-## 🛠️ Technical Arsenal
-**Core Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
-**Data & Cloud**  
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner_Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)  
-**Machine Learning & Analytics**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
-**Tools & Operations**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+### **Little Rock West High School** | Computer Technician Intern
+*Aug 2019 - May 2021 | Little Rock, Arkansas*
+- Maintained 100+ PCs and network infrastructure
+- Provided technical support and troubleshooting
+- Gained foundation in network administration
 
-## 🎯 What Sets Me Apart
-✅ AWS Certified Cloud Practitioner  
-✅ Experience building systems at Walmart Global Tech  
-✅ Delivered solutions that saved over $700K in operational costs  
-✅ Full-stack skills: databases, back-end, and dashboards  
-✅ Consistent contributions and ongoing learning  
-✅ Works well with teams
+---
 
 ## 🎓 Education
-**Bachelor of Science** in Computer Science & Data Analytics  
+
+**Bachelor of Science in Computer Science with Concentration in Data Analytics**  
 **Southern New Hampshire University** | 2023 - 2026  
-Relevant Coursework: Machine Learning, ETL, Data Analytics, Software Engineering
+*Relevant Coursework:* Machine Learning, ETL & Data Pipelines, Data Analytics, Software Engineering, Cloud Computing, Database Management
 
-## 🌟 Let's Build Something Useful
-I like creating tools that make work easier, save time, and give useful insights. Always open to new challenges.  
+---
 
-**Currently seeking**: Full-time opportunities for May 2026 | Open to internships and co-op positions  
+## 📊 GitHub Stats
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=sfazliddinov385&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sfazliddinov385&theme=dark&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🌟 Let's Connect!
+
+**Currently seeking:** Full-time opportunities for May 2026 | Open to internships and co-op positions
 
 📧 **sfazliddinov385@gmail.com**  
 📍 **Bentonville, Arkansas** (Open to relocation)  
-💼 **[LinkedIn](https://www.linkedin.com/in/sarvarbekfazliddinov/)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/sarvarbekfazliddinov/)**
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sfazliddinov385&color=blue&style=flat-square" alt="Profile views" />
-</p>
-<p align="center">
-  <i>Turning data into decisions, code into solutions</i>
-</p>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sfazliddinov385&color=blue&style=flat-square)](https://github.com/sfazliddinov385)
+
+**⚡ "Turning data into decisions, code into solutions"**
+
+</div>
