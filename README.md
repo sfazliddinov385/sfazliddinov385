@@ -2,7 +2,7 @@
 
 ---
 
-## 😊 About Me:
+## 💼 About Me:
 
 I am a Computer Science student with a concentration in Data Analytics at Southern New Hampshire University, passionate about exploring the realms of coding, machine learning, and building robust applications. Former Software Engineer Intern at Walmart Global Tech with a track record of delivering enterprise solutions that save $700K+ in operational costs.
 
@@ -39,19 +39,19 @@ I'm passionate about leveraging data and technology to solve real-world problems
 
 ## 📌 Pinned Projects
 
-### [📊 Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker) | **Public**
+### [📊 Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)
 
 Automated inventory monitoring system using Python, Snowflake, and Power BI. Processes 13,000+ data points daily with real-time alerts and dashboards. Saves 10+ hours weekly through automation.
 
-🐍 **Python** ⭐ **24** 🍴 **3**
+**Tech Stack:** Python | Snowflake | Power BI | GitHub Actions
 
 ---
 
-### [🧠 Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction) | **Public**
+### [🧠 Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction)
 
 ML model with 85% accuracy predicting employee turnover using XGBoost. Identified $722K in potential savings with 126% ROI on retention investments.
 
-🐍 **Python** ⭐ **19** 🍴 **1**
+**Tech Stack:** Python | XGBoost | MySQL | Power BI
 
 ---
 
@@ -83,15 +83,6 @@ ML model with 85% accuracy predicting employee turnover using XGBoost. Identifie
 **Bachelor of Science in Computer Science with Concentration in Data Analytics**  
 **Southern New Hampshire University** | 2023 - 2026  
 *Relevant Coursework:* Machine Learning, ETL & Data Pipelines, Data Analytics, Software Engineering, Cloud Computing, Database Management
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=sfazliddinov385&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sfazliddinov385&theme=dark&hide_border=true" width="48%" />
-</div>
 
 ---
 
