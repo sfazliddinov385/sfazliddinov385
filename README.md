@@ -92,7 +92,6 @@ ML model with 85% accuracy predicting employee turnover using XGBoost. Identifie
 
 ## 🌟 Let's Connect!
 
-**Currently seeking:** Full-time opportunities for May 2026 | Open to internships and co-op positions
 
 📧 **sfazliddinov385@gmail.com**  
 📍 **Bentonville, Arkansas** (Open to relocation)  
