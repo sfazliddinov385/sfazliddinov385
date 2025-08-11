@@ -102,6 +102,5 @@ ML model with 85% accuracy predicting employee turnover using XGBoost. Identifie
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sfazliddinov385&color=blue&style=flat-square)](https://github.com/sfazliddinov385)
 
-**⚡ "Turning data into decisions, code into solutions"**
 
 </div>
