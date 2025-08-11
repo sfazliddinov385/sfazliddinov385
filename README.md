@@ -19,9 +19,9 @@ I am a Computer Science student with a concentration in Data Analytics at Southe
 
 Check out my [coding portfolio](https://github.com/sfazliddinov385)!
 
-## 🎯 About Me
+## 🎯 Focus Areas
 
-I'm passionate about leveraging data and technology to solve real-world problems, focusing on:
+I'm passionate about leveraging data and technology to solve real-world problems:
 
 - **Data Analytics & ETL Pipelines**
 - **Machine Learning & Predictive Modeling**
