@@ -17,7 +17,7 @@ I am a Computer Science student with a concentration in Data Analytics at Southe
 - 🤖 Developing ML models with 85% prediction accuracy
 - 🔬 Exploring new technologies in cloud computing and automation
 
-Check out my [coding portfolio](https://github.com/sfazliddinov385)!
+Check out my [coding portfolio](https://github.com/sfazliddinov385?tab=repositories)!
 
 ## 🎯 Focus Areas
 
