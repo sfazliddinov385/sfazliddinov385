@@ -74,7 +74,7 @@ ML model with 85% accuracy predicting employee turnover using XGBoost. Identifie
 - Developed Python automation solutions and data analysis scripts
 - Enhanced problem-solving skills through hands-on technical challenges
 
-### **Little Rock West High School** | Computer Technician Intern
+### **Little Rock West High School** | Help Desk Analyst Intern
 *Aug 2019 - May 2021 | Little Rock, Arkansas*
 - Maintained 100+ PCs and network infrastructure
 - Provided technical support and troubleshooting
