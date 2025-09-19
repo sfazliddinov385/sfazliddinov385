@@ -10,7 +10,7 @@
 
 I am a **Computer Science student at Southern New Hampshire University** with concentrations in **Data Analytics** and **Cybersecurity**. My passion lies in building **secure systems**, detecting **cyber threats**, and leveraging **data-driven insights** to solve real-world problems.  
 
-💡 I enjoy working on projects at the intersection of **security, cloud computing, and analytics**, where I can combine **technical precision** with **problem-solving creativity**.  
+I enjoy working on projects at the intersection of **security, cloud computing, and analytics**, where I can combine **technical precision** with **problem-solving creativity**.  
 
 Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, where I contributed to enterprise solutions that saved **$700K+ in operational costs** through data pipelines, secure coding, and cloud automation.  
 
