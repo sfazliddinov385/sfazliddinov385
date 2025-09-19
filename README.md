@@ -12,17 +12,17 @@ I am a **Computer Science student at Southern New Hampshire University** with co
 
 I enjoy working on projects at the intersection of **security, cloud computing, and analytics**, where I can combine **technical precision** with **problem-solving creativity**.  
 
-Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, where I contributed to enterprise solutions that saved **$700K+ in operational costs** through data pipelines, secure coding, and cloud automation.  
+Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, where I contributed to enterprise solutions that reduced **page load time by 18%**, increased adoption by **25%**, and generated **$120K+ in annual cost savings** through automation.  
 
 ---
 
-##  What I'm Working On  
+## 🔭 What I'm Working On  
 
-- Building **cybersecurity labs** with SIEM, Linux servers, and virtual machines  
+- Deploying **SIEM platforms** (Wazuh + OpenSearch) for enterprise log monitoring  
+- Building **cybersecurity labs** with Linux servers, firewalls, and IDS/IPS  
 - Practicing **penetration testing** with Kali Linux, Wireshark, and Nmap  
-- Designing **data pipelines** that process **13,000+ records daily**  
-- Training **machine learning models** with 85%+ prediction accuracy  
-- Strengthening expertise in **cloud security** across AWS, Azure, and GCP  
+- Developing **Python automation scripts** for reporting and threat detection  
+- Strengthening expertise in **cloud security** (AWS, Azure, GCP)  
 
 📂 Explore my [cybersecurity + coding portfolio](https://github.com/sfazliddinov385?tab=repositories).  
 
@@ -32,8 +32,8 @@ Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, w
 
 - **Cybersecurity & Threat Detection**  
 - **Linux & Virtualized Environments**  
-- **Data Analytics & ETL Pipelines**  
 - **Cloud Security & Automation**  
+- **Data Analytics & ETL Pipelines**  
 - **Machine Learning for Security**  
 - **Secure Full-Stack Development**  
 
@@ -50,10 +50,11 @@ Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, w
 **Security & Tools:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![VirtualBox](https://img.shields.io/badge/Virtual%20Machines-183A61?style=for-the-badge&logo=vmware&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=security&logoColor=white)  
+![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logo=elasticstack&logoColor=white)  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
 
 **Frameworks & Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -68,62 +69,26 @@ Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, w
 ## 📌 Pinned Projects  
 
 ### [🛡️ Enterprise SIEM Deployment](https://github.com/sfazliddinov385/enterprise-siem-deployment)  
-Deployed a SIEM system with Wazuh for Linux & Windows environments. Simulated brute-force attacks and automated detection with real-time alerts.  
+Deployed a **Wazuh SIEM** platform with OpenSearch to monitor Linux & Windows endpoints. Configured detection rules for brute-force and malware, and automated monitoring with Bash/PowerShell scripts.  
 
-**Tech Stack:** Wazuh | Linux | Windows Server | Python | Bash | PowerShell | Wireshark | Nmap  
+**Tech Stack:** Wazuh | OpenSearch | Linux | Windows | Bash | PowerShell | Wireshark | Nmap  
 
 ---  
 
 ### [🔍 Cybersecurity Attack Detection Lab](https://github.com/sfazliddinov385/Cybersecurity-Attack-Detection-Lab)  
-Simulated network attacks with Kali Linux and built detection scripts in Python + Wireshark. Automated malicious activity reporting.  
+Built a **red vs. blue team lab** using Kali Linux (attacker) and Ubuntu (target). Implemented firewall rules, packet sniffing, and IDS workflows. Automated reporting with Python scripts.  
 
 **Tech Stack:** Kali Linux | Ubuntu | Python | Wireshark | Nmap | VirtualBox  
-
----  
-
-### [📊 Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)  
-Automated inventory monitoring system with real-time alerts and dashboards, saving **10+ hours weekly**.  
-
-**Tech Stack:** Python | Snowflake | Power BI | GitHub Actions  
-
----  
-
-### [🧠 Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction)  
-ML model predicting employee turnover with **85% accuracy**, identifying **$722K+ in potential savings**.  
-
-**Tech Stack:** Python | XGBoost | MySQL | Power BI  
-
----
-
-##  Experience  
-
-### **Walmart Global Tech** | Software Engineer Intern  
-*Dec 2022 – May 2023 | Bentonville, AR*  
-- Built secure data pipelines processing **13,000+ records daily** with Python + Snowflake  
-- Developed full-stack applications with **security-first practices**  
-- Delivered enterprise solutions saving **$700K+ annually**  
-
-### **Ignite Professional Studies** | IT Intern  
-*Aug 2022 – May 2023 | Bentonville, AR*  
-- Automated reporting with Python scripts  
-- Delivered cybersecurity awareness presentations  
-- Enhanced IT project efficiency and security  
-
-### **Little Rock West High School** | Help Desk Analyst  
-*Aug 2019 – May 2021 | Little Rock, AR*  
-- Maintained **secure networks and PCs**  
-- Reduced downtime with troubleshooting support  
-- Promoted cybersecurity awareness among staff & students  
 
 ---
 
 ## 🎓 Education  
 
-**B.S. Computer Science** (2023 – 2026)  
-Southern New Hampshire University  
-**Concentrations:** Data Analytics & Cybersecurity  
+**Southern New Hampshire University** – B.S. Computer Science (Data Analytics & Cybersecurity) | GPA: 4.0/4.0  
+*Aug 2024 – May 2026*  
 
-*Relevant Coursework:* Cybersecurity, SIEM, Machine Learning, Cloud Computing, Databases, ETL Pipelines  
+**NorthWest Arkansas Community College** – A.S. Computer Information Systems  
+*Aug 2022 – May 2024*  
 
 ---
 
