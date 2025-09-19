@@ -8,8 +8,7 @@
 
 ## 💼 About Me:
 
-I am a Computer Science student with a concentration in Data Analytics at Southern New Hampshire University, passionate about exploring the realms of coding, machine learning, and building robust applications. Former Software Engineer Intern at Walmart Global Tech with a track record of delivering enterprise solutions that save $700K+ in operational costs.
-
+I am a Computer Science student at Southern New Hampshire University with concentrations in Data Analytics and Cybersecurity, passionate about exploring the realms of coding, machine learning, and building secure, robust applications. As a former Software Engineer Intern at Walmart Global Tech, I contributed to enterprise solutions that saved over $700K in operational costs.
 ## 🚀 What I'm Up To
 
 - 💻 Building enterprise-level applications with modern frameworks
