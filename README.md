@@ -1,51 +1,45 @@
 <div align="center">
 
-# Hi 👋 I'm Sarvarbek Fazliddinov
+# Hi 👋 I'm Sarvarbek Fazliddinov  
 
-</div>
-
----
-
-## 💼 About Me:
-
-I am a Computer Science student at Southern New Hampshire University with concentrations in **Data Analytics** and **Cybersecurity**, deeply passionate about **cybersecurity, ethical hacking, and digital defense**. I thrive on building secure applications, detecting threats, and working in environments that require both **technical precision** and **problem-solving creativity**.  
-
-As a former Software Engineer Intern at Walmart Global Tech, I contributed to enterprise solutions that saved over **$700K in operational costs**, combining my knowledge of data pipelines, cloud computing, and security-first development.  
+</div>  
 
 ---
 
-## 🚀 What I'm Up To
+## 💼 About Me  
 
-- 🛡️ Designing and testing **cybersecurity labs** with SIEM systems, Linux servers, and VMs  
-- 🔐 Practicing **penetration testing** with tools like Kali Linux, Wireshark, and Nmap  
-- 📊 Building data pipelines that process **13,000+ data points daily**  
-- 🤖 Developing ML models with **85% prediction accuracy**  
-- ☁️ Expanding expertise in **cloud security** on AWS, Azure, and GCP  
+I am a **Computer Science student at Southern New Hampshire University** with concentrations in **Data Analytics** and **Cybersecurity**. My passion lies in building **secure systems**, detecting **cyber threats**, and leveraging **data-driven insights** to solve real-world problems.  
 
-Check out my [cybersecurity + coding portfolio](https://github.com/sfazliddinov385?tab=repositories)!  
+💡 I enjoy working on projects at the intersection of **security, cloud computing, and analytics**, where I can combine **technical precision** with **problem-solving creativity**.  
+
+Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, where I contributed to enterprise solutions that saved **$700K+ in operational costs** through data pipelines, secure coding, and cloud automation.  
 
 ---
 
-## 🎯 Focus Areas
+## 🚀 What I'm Working On  
 
-My passion lies at the intersection of **cybersecurity and data-driven solutions**:  
+- 🛡️ Building **cybersecurity labs** with SIEM, Linux servers, and virtual machines  
+- 🔍 Practicing **penetration testing** with Kali Linux, Wireshark, and Nmap  
+- 📊 Designing **data pipelines** that process **13,000+ records daily**  
+- 🤖 Training **machine learning models** with 85%+ prediction accuracy  
+- ☁️ Strengthening expertise in **cloud security** across AWS, Azure, and GCP  
+
+📂 Explore my [cybersecurity + coding portfolio](https://github.com/sfazliddinov385?tab=repositories).  
+
+---
+
+## 🎯 Focus Areas  
 
 - **Cybersecurity & Threat Detection**  
 - **Linux & Virtualized Environments**  
 - **Data Analytics & ETL Pipelines**  
 - **Cloud Security & Automation**  
 - **Machine Learning for Security**  
-- **Full-Stack Secure Development**  
+- **Secure Full-Stack Development**  
 
 ---
 
-## 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvarbekfazliddinov/)
-
----
-
-## 💻 Tech Stack:
+## 💻 Tech Stack  
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -53,15 +47,15 @@ My passion lies at the intersection of **cybersecurity and data-driven solutions
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
-**Developer Tools & Security:**  
+**Security & Tools:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![VirtualBox](https://img.shields.io/badge/Virtual%20Machines-183A61?style=for-the-badge&logo=vmware&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![VirtualBox](https://img.shields.io/badge/Virtual%20Machines-183A61?style=for-the-badge&logo=vmware&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)  
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)  
 
-**Libraries/Frameworks & Cloud:**  
+**Frameworks & Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
@@ -71,88 +65,88 @@ My passion lies at the intersection of **cybersecurity and data-driven solutions
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned Projects  
 
 ### [🛡️ Enterprise SIEM Deployment](https://github.com/sfazliddinov385/enterprise-siem-deployment)  
-Built and deployed a SIEM system with Wazuh, monitoring Linux and Windows environments. Simulated brute force attacks and automated detection with real-time alerts.  
+Deployed a SIEM system with Wazuh for Linux & Windows environments. Simulated brute-force attacks and automated detection with real-time alerts.  
 
-**Tech Stack:** Wazuh | Linux | Windows Server | Python | Bash | PowerShell | Wireshark | Nmap | Virtual Machines  
+**Tech Stack:** Wazuh | Linux | Windows Server | Python | Bash | PowerShell | Wireshark | Nmap  
 
----
+---  
 
 ### [🔍 Cybersecurity Attack Detection Lab](https://github.com/sfazliddinov385/Cybersecurity-Attack-Detection-Lab)  
-Created a lab simulating real-world network attacks using Kali Linux and detection with Python + Wireshark. Automated reporting of malicious activity.  
+Simulated network attacks with Kali Linux and built detection scripts in Python + Wireshark. Automated malicious activity reporting.  
 
 **Tech Stack:** Kali Linux | Ubuntu | Python | Wireshark | Nmap | VirtualBox  
 
----
+---  
 
 ### [📊 Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)  
-Automated inventory monitoring system with real-time alerts and dashboards, saving 10+ hours weekly.  
+Automated inventory monitoring system with real-time alerts and dashboards, saving **10+ hours weekly**.  
 
 **Tech Stack:** Python | Snowflake | Power BI | GitHub Actions  
 
----
+---  
 
 ### [🧠 Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction)  
-ML model with 85% accuracy predicting turnover, identifying $722K in potential savings.  
+ML model predicting employee turnover with **85% accuracy**, identifying **$722K+ in potential savings**.  
 
 **Tech Stack:** Python | XGBoost | MySQL | Power BI  
 
 ---
 
-## 💼 Professional Journey
+## 💼 Experience  
 
 ### **Walmart Global Tech** | Software Engineer Intern  
-*Dec 2022 - May 2023 | Bentonville, Arkansas*  
-- Built secure data pipelines processing **13,000+ data points daily** using Python and Snowflake  
-- Developed full-stack applications with **security-first coding practices**  
-- Delivered enterprise solutions saving **$700K+ in operational costs**  
+*Dec 2022 – May 2023 | Bentonville, AR*  
+- Built secure data pipelines processing **13,000+ records daily** with Python + Snowflake  
+- Developed full-stack applications with **security-first practices**  
+- Delivered enterprise solutions saving **$700K+ annually**  
 
-### **Ignite Professional Studies** | Information Technology Intern  
-*Aug 2022 - May 2023 | Bentonville, Arkansas*  
-- Created Python automation scripts to streamline secure reporting  
-- Built technical presentations on **cybersecurity best practices**  
-- Worked on IT projects to improve security and efficiency  
+### **Ignite Professional Studies** | IT Intern  
+*Aug 2022 – May 2023 | Bentonville, AR*  
+- Automated reporting with Python scripts  
+- Delivered cybersecurity awareness presentations  
+- Enhanced IT project efficiency and security  
 
 ### **Little Rock West High School** | Help Desk Analyst  
-*Aug 2019 - May 2021 | Little Rock, Arkansas*  
-- Maintained **secure network and PC operations**  
-- Provided troubleshooting support reducing downtime  
-- Supported staff and students with **cybersecurity awareness**  
+*Aug 2019 – May 2021 | Little Rock, AR*  
+- Maintained **secure networks and PCs**  
+- Reduced downtime with troubleshooting support  
+- Promoted cybersecurity awareness among staff & students  
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 
-**Bachelor of Science in Computer Science**  
-**Concentrations: Data Analytics & Cybersecurity**  
-Southern New Hampshire University | 2023 - 2026  
+**B.S. Computer Science** (2023 – 2026)  
+Southern New Hampshire University  
+**Concentrations:** Data Analytics & Cybersecurity  
 
-*Relevant Coursework:* Cybersecurity, SIEM Systems, Machine Learning, Cloud Computing, Database Management, ETL & Data Pipelines  
+*Relevant Coursework:* Cybersecurity, SIEM, Machine Learning, Cloud Computing, Databases, ETL Pipelines  
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications  
 
-<div align="left">
+<div align="center">
 
 ![Security+](https://img.shields.io/badge/CompTIA%20Security+-E01F27?style=for-the-badge&logo=comptia&logoColor=white)  
 ![A+](https://img.shields.io/badge/CompTIA%20A+-E01F27?style=for-the-badge&logo=comptia&logoColor=white)  
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
-</div>
+</div>  
 
 ---
 
-## 🌟 Let's Connect!
+## 🌐 Connect With Me  
 
 📧 **sfazliddinov385@gmail.com**  
 📍 **Bentonville, Arkansas** (Open to relocation)  
-💼 **[LinkedIn](https://www.linkedin.com/in/sarvarbekfazliddinov/)**  
+💼 [**LinkedIn**](https://www.linkedin.com/in/sarvarbekfazliddinov/)  
 
-<div align="center">
+<div align="left">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sfazliddinov385&color=blue&style=flat-square)](https://github.com/sfazliddinov385)
+[![Profile Views](https://komarev.com/ghpvc/?username=sfazliddinov385&color=blue&style=flat-square)](https://github.com/sfazliddinov385)  
 
 </div>
