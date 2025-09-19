@@ -129,7 +129,7 @@ Southern New Hampshire University
 
 ## 📜 Certifications  
 
-<div align="center">
+<div align="left">
 
 ![Security+](https://img.shields.io/badge/CompTIA%20Security+-E01F27?style=for-the-badge&logo=comptia&logoColor=white)  
 ![A+](https://img.shields.io/badge/CompTIA%20A+-E01F27?style=for-the-badge&logo=comptia&logoColor=white)  
