@@ -145,7 +145,7 @@ Southern New Hampshire University
 📍 **Bentonville, Arkansas** (Open to relocation)  
 💼 [**LinkedIn**](https://www.linkedin.com/in/sarvarbekfazliddinov/)  
 
-<div align="left">
+<div align="right">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sfazliddinov385&color=blue&style=flat-square)](https://github.com/sfazliddinov385)  
 
