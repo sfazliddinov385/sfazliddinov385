@@ -80,6 +80,20 @@ Built a **red vs. blue team lab** using Kali Linux (attacker) and Ubuntu (target
 
 **Tech Stack:** Kali Linux | Ubuntu | Python | Wireshark | Nmap | VirtualBox  
 
+---  
+
+### [📊 Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)  
+Developed a **real-time stock price tracker** with interactive dashboards. Implemented technical indicators (SMA, EMA, RSI) and automated visualization with Streamlit.  
+
+**Tech Stack:** Python | Streamlit | yFinance | Plotly  
+
+---  
+
+### [🧠 Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction)  
+Built an **ML solution** predicting employee turnover with **85% accuracy**, helping identify cost-saving retention strategies. Deployed an end-to-end pipeline with MySQL and Power BI.  
+
+**Tech Stack:** Python | XGBoost | MySQL | Power BI  
+
 ---
 
 ## 🎓 Education  
