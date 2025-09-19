@@ -8,31 +8,34 @@
 
 ## 💼 About Me:
 
-I am a Computer Science student at Southern New Hampshire University with concentrations in **Data Analytics** and **Cybersecurity**, passionate about coding, machine learning, cloud computing, and building secure, robust applications. As a former Software Engineer Intern at Walmart Global Tech, I contributed to enterprise solutions that saved over **$700K in operational costs**.  
+I am a Computer Science student at Southern New Hampshire University with concentrations in **Data Analytics** and **Cybersecurity**, deeply passionate about **cybersecurity, ethical hacking, and digital defense**. I thrive on building secure applications, detecting threats, and working in environments that require both **technical precision** and **problem-solving creativity**.  
+
+As a former Software Engineer Intern at Walmart Global Tech, I contributed to enterprise solutions that saved over **$700K in operational costs**, combining my knowledge of data pipelines, cloud computing, and security-first development.  
 
 ---
 
 ## 🚀 What I'm Up To
 
-- 💻 Building enterprise-level applications with modern frameworks  
-- 📊 Creating data pipelines that process 13,000+ data points daily  
-- 🤖 Developing ML models with 85% prediction accuracy  
-- 🔐 Exploring cybersecurity, SIEM systems, and attack detection labs  
-- ☁️ Expanding expertise in cloud platforms like AWS and Azure  
+- 🛡️ Designing and testing **cybersecurity labs** with SIEM systems, Linux servers, and VMs  
+- 🔐 Practicing **penetration testing** with tools like Kali Linux, Wireshark, and Nmap  
+- 📊 Building data pipelines that process **13,000+ data points daily**  
+- 🤖 Developing ML models with **85% prediction accuracy**  
+- ☁️ Expanding expertise in **cloud security** on AWS, Azure, and GCP  
 
-Check out my [coding portfolio](https://github.com/sfazliddinov385?tab=repositories)!  
+Check out my [cybersecurity + coding portfolio](https://github.com/sfazliddinov385?tab=repositories)!  
 
 ---
 
 ## 🎯 Focus Areas
 
-I'm passionate about leveraging data and technology to solve real-world problems:  
+My passion lies at the intersection of **cybersecurity and data-driven solutions**:  
 
-- **Data Analytics & ETL Pipelines**  
-- **Machine Learning & Predictive Modeling**  
 - **Cybersecurity & Threat Detection**  
-- **Cloud Solutions & Automation**  
-- **Full-Stack Development**  
+- **Linux & Virtualized Environments**  
+- **Data Analytics & ETL Pipelines**  
+- **Cloud Security & Automation**  
+- **Machine Learning for Security**  
+- **Full-Stack Secure Development**  
 
 ---
 
@@ -50,11 +53,13 @@ I'm passionate about leveraging data and technology to solve real-world problems
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
-**Developer Tools:**  
+**Developer Tools & Security:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![VirtualBox](https://img.shields.io/badge/Virtual%20Machines-183A61?style=for-the-badge&logo=vmware&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)  
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 
 **Libraries/Frameworks & Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -71,7 +76,7 @@ I'm passionate about leveraging data and technology to solve real-world problems
 ### [🛡️ Enterprise SIEM Deployment](https://github.com/sfazliddinov385/enterprise-siem-deployment)  
 Built and deployed a SIEM system with Wazuh, monitoring Linux and Windows environments. Simulated brute force attacks and automated detection with real-time alerts.  
 
-**Tech Stack:** Wazuh | Linux | Windows Server | Python | Bash | PowerShell | Wireshark | Nmap  
+**Tech Stack:** Wazuh | Linux | Windows Server | Python | Bash | PowerShell | Wireshark | Nmap | Virtual Machines  
 
 ---
 
@@ -100,21 +105,21 @@ ML model with 85% accuracy predicting turnover, identifying $722K in potential s
 
 ### **Walmart Global Tech** | Software Engineer Intern  
 *Dec 2022 - May 2023 | Bentonville, Arkansas*  
-- Built data pipelines processing 13,000+ data points daily using Python and Snowflake  
-- Developed full-stack applications using JavaScript, C#, and modern frameworks  
-- Delivered solutions saving $700K+ in operational costs  
+- Built secure data pipelines processing **13,000+ data points daily** using Python and Snowflake  
+- Developed full-stack applications with **security-first coding practices**  
+- Delivered enterprise solutions saving **$700K+ in operational costs**  
 
 ### **Ignite Professional Studies** | Information Technology Intern  
 *Aug 2022 - May 2023 | Bentonville, Arkansas*  
-- Created Python automation scripts to streamline reporting  
-- Built technical presentations for both technical and non-technical audiences  
-- Worked on IT projects to improve communication and efficiency  
+- Created Python automation scripts to streamline secure reporting  
+- Built technical presentations on **cybersecurity best practices**  
+- Worked on IT projects to improve security and efficiency  
 
 ### **Little Rock West High School** | Help Desk Analyst  
 *Aug 2019 - May 2021 | Little Rock, Arkansas*  
-- Maintained PCs, networks, and devices for smooth operations  
+- Maintained **secure network and PC operations**  
 - Provided troubleshooting support reducing downtime  
-- Supported staff and students with technical issues  
+- Supported staff and students with **cybersecurity awareness**  
 
 ---
 
@@ -124,7 +129,7 @@ ML model with 85% accuracy predicting turnover, identifying $722K in potential s
 **Concentrations: Data Analytics & Cybersecurity**  
 Southern New Hampshire University | 2023 - 2026  
 
-*Relevant Coursework:* Machine Learning, ETL & Data Pipelines, Cybersecurity, Software Engineering, Cloud Computing, Database Management  
+*Relevant Coursework:* Cybersecurity, SIEM Systems, Machine Learning, Cloud Computing, Database Management, ETL & Data Pipelines  
 
 ---
 
