@@ -6,7 +6,7 @@
 
 ---
 
-## 💼 About Me  
+## About Me  
 
 I am a **Computer Science student at Southern New Hampshire University** with concentrations in **Data Analytics** and **Cybersecurity**. My passion lies in building **secure systems**, detecting **cyber threats**, and leveraging **data-driven insights** to solve real-world problems.  
 
@@ -16,13 +16,13 @@ Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, w
 
 ---
 
-## 🚀 What I'm Working On  
+##  What I'm Working On  
 
-- 🛡️ Building **cybersecurity labs** with SIEM, Linux servers, and virtual machines  
-- 🔍 Practicing **penetration testing** with Kali Linux, Wireshark, and Nmap  
-- 📊 Designing **data pipelines** that process **13,000+ records daily**  
-- 🤖 Training **machine learning models** with 85%+ prediction accuracy  
-- ☁️ Strengthening expertise in **cloud security** across AWS, Azure, and GCP  
+- Building **cybersecurity labs** with SIEM, Linux servers, and virtual machines  
+- Practicing **penetration testing** with Kali Linux, Wireshark, and Nmap  
+- Designing **data pipelines** that process **13,000+ records daily**  
+- Training **machine learning models** with 85%+ prediction accuracy  
+- Strengthening expertise in **cloud security** across AWS, Azure, and GCP  
 
 📂 Explore my [cybersecurity + coding portfolio](https://github.com/sfazliddinov385?tab=repositories).  
 
@@ -95,7 +95,7 @@ ML model predicting employee turnover with **85% accuracy**, identifying **$722K
 
 ---
 
-## 💼 Experience  
+##  Experience  
 
 ### **Walmart Global Tech** | Software Engineer Intern  
 *Dec 2022 – May 2023 | Bentonville, AR*  
