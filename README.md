@@ -16,7 +16,7 @@ Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, w
 
 ---
 
-## 🔭 What I'm Working On  
+## What I'm Working On  
 
 - Deploying **SIEM platforms** (Wazuh + OpenSearch) for enterprise log monitoring  
 - Building **cybersecurity labs** with Linux servers, firewalls, and IDS/IPS  
@@ -28,7 +28,7 @@ Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, w
 
 ---
 
-## 🎯 Focus Areas  
+## Focus Areas  
 
 - **Cybersecurity & Threat Detection**  
 - **Linux & Virtualized Environments**  
@@ -39,7 +39,7 @@ Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, w
 
 ---
 
-## 💻 Tech Stack  
+##  Tech Stack  
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -68,28 +68,28 @@ Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, w
 
 ## 📌 Pinned Projects  
 
-### [🛡️ Enterprise SIEM Deployment](https://github.com/sfazliddinov385/enterprise-siem-deployment)  
+### [Enterprise SIEM Deployment](https://github.com/sfazliddinov385/enterprise-siem-deployment)  
 Deployed a **Wazuh SIEM** platform with OpenSearch to monitor Linux & Windows endpoints. Configured detection rules for brute-force and malware, and automated monitoring with Bash/PowerShell scripts.  
 
 **Tech Stack:** Wazuh | OpenSearch | Linux | Windows | Bash | PowerShell | Wireshark | Nmap  
 
 ---  
 
-### [🔍 Cybersecurity Attack Detection Lab](https://github.com/sfazliddinov385/Cybersecurity-Attack-Detection-Lab)  
+### [Cybersecurity Attack Detection Lab](https://github.com/sfazliddinov385/Cybersecurity-Attack-Detection-Lab)  
 Built a **red vs. blue team lab** using Kali Linux (attacker) and Ubuntu (target). Implemented firewall rules, packet sniffing, and IDS workflows. Automated reporting with Python scripts.  
 
 **Tech Stack:** Kali Linux | Ubuntu | Python | Wireshark | Nmap | VirtualBox  
 
 ---  
 
-### [📊 Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)  
+### [Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)  
 Developed a **real-time stock price tracker** with interactive dashboards. Implemented technical indicators (SMA, EMA, RSI) and automated visualization with Streamlit.  
 
 **Tech Stack:** Python | Streamlit | yFinance | Plotly  
 
 ---  
 
-### [🧠 Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction)  
+### [ Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction)  
 Built an **ML solution** predicting employee turnover with **85% accuracy**, helping identify cost-saving retention strategies. Deployed an end-to-end pipeline with MySQL and Power BI.  
 
 **Tech Stack:** Python | XGBoost | MySQL | Power BI  
