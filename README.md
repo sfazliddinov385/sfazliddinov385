@@ -49,7 +49,7 @@ Previously I interned as a **Software Engineer at Walmart Global Tech**, where I
 
 <div align="center">
 
-| &nbsp;&nbsp;EARNED&nbsp;&nbsp; | &nbsp;&nbsp;IN FLIGHT&nbsp;&nbsp; | &nbsp;&nbsp;QUEUED&nbsp;&nbsp; |
+| &nbsp;&nbsp;EARNED&nbsp;&nbsp; | &nbsp;&nbsp;IN Progress&nbsp;&nbsp; | &nbsp;&nbsp;QUEUED&nbsp;&nbsp; |
 |:---:|:---:|:---:|
 | ✅ CompTIA A+ | 🟡 CompTIA CySA+ | ⬜ BTL1 |
 | ✅ CompTIA Security+ | | ⬜ Splunk Core Certified User |
