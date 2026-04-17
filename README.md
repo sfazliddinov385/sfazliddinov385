@@ -1,131 +1,169 @@
 <div align="center">
 
-# Hi 👋 I'm Sarvarbek Fazliddinov  
+  <a href="https://github.com/sfazliddinov385">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Beck+%F0%9F%91%8B;SOC+Analyst+in+Training+%7C+Blue+Team+Focused;Future+Georgia+Tech+M.S.+Cybersecurity+%28Fall+2026%29;Building+Detections%2C+Breaking+Attacks%2C+Writing+Playbooks" alt="Typing SVG" />
+  </a>
 
-</div>  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sfazliddinov385&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/sfazliddinov385?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/Focus-SOC%20Tier%201-brightgreen?style=flat" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-success?style=flat" alt="Status" />
+  </p>
 
----
-
-## About Me  
-
-I am a **Computer Science student at Southern New Hampshire University** with concentrations in **Data Analytics** and **Cybersecurity**. My passion lies in building **secure systems**, detecting **cyber threats**, and leveraging **data-driven insights** to solve real-world problems.  
-
-I enjoy working on projects at the intersection of **security, cloud computing, and analytics**, where I can combine **technical precision** with **problem-solving creativity**.  
-
-Previously, I served as a **Software Engineer Intern at Walmart Global Tech**, where I contributed to enterprise solutions that reduced **page load time by 18%**, increased adoption by **25%**, and generated **$120K+ in annual cost savings** through automation.  
-
----
-
-## What I'm Working On  
-
-- Deploying **SIEM platforms** (Wazuh + OpenSearch) for enterprise log monitoring  
-- Building **cybersecurity labs** with Linux servers, firewalls, and IDS/IPS  
-- Practicing **penetration testing** with Kali Linux, Wireshark, and Nmap  
-- Developing **Python automation scripts** for reporting and threat detection  
-- Strengthening expertise in **cloud security** (AWS, Azure, GCP)  
-
-📂 Explore my [cybersecurity + coding portfolio](https://github.com/sfazliddinov385?tab=repositories).  
+</div>
 
 ---
 
-## Focus Areas  
+## About Me
 
-- **Cybersecurity & Threat Detection**  
-- **Linux & Virtualized Environments**  
-- **Cloud Security & Automation**  
-- **Data Analytics & ETL Pipelines**  
-- **Machine Learning for Security**  
-- **Secure Full-Stack Development**  
+I'm **Sarvarbek Fazliddinov** (Beck), a Computer Science senior at **Southern New Hampshire University** concentrating in Data Analytics, graduating May 2026. This Fall I'll be starting my **M.S. in Cybersecurity at Georgia Tech (OMSCY, Information Security track)**.
 
----
+My focus is **blue team security operations**: detection engineering, SIEM tuning, incident response, and threat hunting. I'm preparing to step into a **SOC Tier 1 Analyst** role, and I spend most of my time building home labs, writing detection rules, and documenting the work end to end so it can be reproduced.
 
-##  Tech Stack  
+Previously I interned as a **Software Engineer at Walmart Global Tech**, where I shipped enterprise features that cut page load time by 18%, lifted adoption by 25%, and drove roughly $120K in annual savings through automation.
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-
-**Security & Tools:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=security&logoColor=white)  
-![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logo=elasticstack&logoColor=white)  
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
-
-**Frameworks & Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
+Long term, I'm working toward a CISO track. Short term, I want to catch the alerts nobody else catches.
 
 ---
 
-## 📌 Pinned Projects  
+## Current Focus
 
-### [Enterprise SIEM Deployment](https://github.com/sfazliddinov385/enterprise-siem-deployment)  
-Deployed a **Wazuh SIEM** platform with OpenSearch to monitor Linux & Windows endpoints. Configured detection rules for brute-force and malware, and automated monitoring with Bash/PowerShell scripts.  
-
-**Tech Stack:** Wazuh | OpenSearch | Linux | Windows | Bash | PowerShell | Wireshark | Nmap  
-
----  
-
-### [Cybersecurity Attack Detection Lab](https://github.com/sfazliddinov385/Cybersecurity-Attack-Detection-Lab)  
-Built a **red vs. blue team lab** using Kali Linux (attacker) and Ubuntu (target). Implemented firewall rules, packet sniffing, and IDS workflows. Automated reporting with Python scripts.  
-
-**Tech Stack:** Kali Linux | Ubuntu | Python | Wireshark | Nmap | VirtualBox  
-
----  
-
-### [Walmart Stock Tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)  
-Developed a **real-time stock price tracker** with interactive dashboards. Implemented technical indicators (SMA, EMA, RSI) and automated visualization with Streamlit.  
-
-**Tech Stack:** Python | Streamlit | yFinance | Plotly  
-
----  
-
-### [ Employee Attrition Predictor](https://github.com/sfazliddinov385/employee-attrition-prediction)  
-Built an **ML solution** predicting employee turnover with **85% accuracy**, helping identify cost-saving retention strategies. Deployed an end-to-end pipeline with MySQL and Power BI.  
-
-**Tech Stack:** Python | XGBoost | MySQL | Power BI  
+```text
+┌─ Now ──────────────────────────────────────────────────────────────────┐
+│  >> SOC Tier 1 job search (Northwest Arkansas + remote)                │
+│  >> CySA+ prep (Jason Dion) → BTL1 → Splunk Core → SC-200              │
+│  >> phishlab: ML-based phishing email triage tool with IOC extraction  │
+│  >> Detection engineering practice in Wazuh + Splunk home labs         │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🎓 Education  
-
-**Southern New Hampshire University** – B.S. Computer Science (Data Analytics & Cybersecurity) | GPA: 4.0/4.0  
-*Aug 2024 – May 2026*  
-
-**NorthWest Arkansas Community College** – A.S. Computer Information Systems  
-*Aug 2022 – May 2024*  
-
----
-
-## 📜 Certifications  
-
-<div align="left">
-
-![Security+](https://img.shields.io/badge/CompTIA%20Security+-E01F27?style=for-the-badge&logo=comptia&logoColor=white)  
-![A+](https://img.shields.io/badge/CompTIA%20A+-E01F27?style=for-the-badge&logo=comptia&logoColor=white)  
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-
-</div>  
-
----
-
-## 🌐 Connect With Me  
-
-📧 **sfazliddinov385@gmail.com**  
-📍 **Bentonville, Arkansas** (Open to relocation)  
-💼 [**LinkedIn**](https://www.linkedin.com/in/sarvarbekfazliddinov/)  
+## Certification Roadmap
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sfazliddinov385&color=blue&style=flat-square)](https://github.com/sfazliddinov385)  
+| Earned | In Progress | Queued |
+| :---: | :---: | :---: |
+| CompTIA A+ | CompTIA CySA+ | BTL1 (Blue Team Level 1) |
+| CompTIA Security+ | | Splunk Core Certified User |
+| AWS Cloud Practitioner | | Microsoft SC-200 |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA%20A%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+## Pinned Projects
+
+### [phishlab](https://github.com/sfazliddinov385/phishlab)
+AI-powered phishing email triage tool. Classifies inbound mail with an ML model, extracts IOCs (URLs, domains, sender infrastructure, attachments), and surfaces them in an analyst dashboard so a Tier 1 SOC can triage faster than opening each `.eml` by hand.
+
+`Python` `scikit-learn` `Flask` `regex-based IOC extraction` `MIT licensed`
+
+---
+
+### [walmart-stock-tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)
+Real-time stock tracker with interactive Streamlit dashboards and technical indicators (SMA, EMA, RSI). A data analytics side project that keeps my Python and visualization muscles active.
+
+`Python` `Streamlit` `yFinance` `Plotly`
+
+---
+
+## Tech Stack
+
+**Security Operations**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=security&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-CC0000?style=for-the-badge&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma%20Rules-1C1C1C?style=for-the-badge&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Platforms & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+**Frameworks & Compliance**
+
+![NIST CSF](https://img.shields.io/badge/NIST%20CSF-005288?style=for-the-badge&logoColor=white)
+![NIST 800-53](https://img.shields.io/badge/NIST%20800--53-005288?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-00529B?style=for-the-badge&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sfazliddinov385&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfazliddinov385&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sfazliddinov385&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sfazliddinov385&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sfazliddinov385&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+
+</div>
+
+---
+
+## Education
+
+**Georgia Institute of Technology** &nbsp;·&nbsp; M.S. Cybersecurity (OMSCY), Information Security track
+*Fall 2026 &rarr; expected 2028*
+
+**Southern New Hampshire University** &nbsp;·&nbsp; B.S. Computer Science, Data Analytics concentration &nbsp;·&nbsp; GPA 3.945
+*Aug 2024 &rarr; May 2026*
+
+**NorthWest Arkansas Community College** &nbsp;·&nbsp; A.S. Computer Information Systems
+*Aug 2022 &rarr; May 2024*
+
+---
+
+## Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/sarvarbekfazliddinov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sfazliddinov385@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sfazliddinov385">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+Based in **Bentonville, Arkansas**. Open to remote and relocation for the right SOC role.
+
+<div align="center">
+
+---
+
+<sub>*"The attacker only has to be right once. The defender has to be right every time, and documented well enough that the next analyst can pick up where you left off."*</sub>
 
 </div>
