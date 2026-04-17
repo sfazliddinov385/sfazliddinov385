@@ -6,10 +6,6 @@
 <div align="center">
 
 <a href="https://github.com/sfazliddinov385">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0e4c80,100:00b4d8&height=220&section=header&text=&animation=fadeIn" width="100%" alt="banner"/>
-</a>
-
-<a href="https://github.com/sfazliddinov385">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Beck+%F0%9F%91%8B;SOC+Analyst+in+Training;Blue+Team+Focused" alt="Typing animation" />
 </a>
 
@@ -227,21 +223,5 @@ Interactive Streamlit dashboards with live price pulls, SMA / EMA / RSI indicato
 <br/><br/>
 
 📍 &nbsp; **Bentonville, Arkansas** &nbsp;·&nbsp; open to remote + relocation for the right SOC role
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e4c80,100:0a0e27&height=140&section=footer&animation=fadeIn" width="100%" alt="footer"/>
-
-<sub>
-  <em>
-    "The attacker only has to be right once.<br/>
-    The defender has to be right every time,<br/>
-    and documented well enough that the next analyst can pick up where you left off."
-  </em>
-</sub>
 
 </div>
