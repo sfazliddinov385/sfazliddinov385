@@ -1,40 +1,24 @@
-<!-- =========================================================
-     BECK / sfazliddinov385 · GitHub Profile README
-     Aesthetic: dark terminal · blue team command center
-     ========================================================= -->
-
 <div align="center">
 
 <a href="https://github.com/sfazliddinov385">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Beck+%F0%9F%91%8B;SOC+Analyst+in+Training;Blue+Team+Focused" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Beck+%F0%9F%91%8B;Blue+Team+Focused" alt="Typing animation" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=sfazliddinov385&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/github/followers/sfazliddinov385?label=FOLLOWERS&style=for-the-badge&color=00b4d8&labelColor=0a0e27" alt="followers"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-0f0?style=for-the-badge&labelColor=0a0e27" alt="status"/>
-<img src="https://img.shields.io/badge/SHIFT-GRAVEYARD%20READY-00b4d8?style=for-the-badge&labelColor=0a0e27" alt="shift"/>
 
 </div>
 
 <br/>
 
-```bash
-┌─[beck@soc-console]─[~/profile]
-└──╼ $ whoami --verbose
-```
-
 ```yaml
-analyst:
-  callsign:      Beck
-  legal_name:    Sarvarbek Fazliddinov
-  role:          SOC Analyst in Training · Blue Team
-  location:      Bentonville, AR · open to remote + relocation
-  studying:      B.S. Computer Science @ SNHU         [May 2026]
-  admitted:      M.S. Cybersecurity @ Georgia Tech    [Fall 2026]
-  specialty:     detection engineering · SIEM tuning · IR · threat hunting
-  mission:       catch the alerts nobody else catches
+name:        Sarvarbek Fazliddinov (Beck)
+location:    Bentonville, AR
+studying:    B.S. Computer Science @ SNHU          [May 2026]
+admitted:    M.S. Cybersecurity @ Georgia Tech     [Fall 2026]
+focus:       detection engineering · SIEM · incident response · threat hunting
 ```
 
 <br/>
@@ -42,11 +26,10 @@ analyst:
 <div align="center">
 
 [![about](https://img.shields.io/badge/-01_about-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-01--about)
-[![focus](https://img.shields.io/badge/-02_current_ops-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-02--current-ops)
-[![certs](https://img.shields.io/badge/-03_certs-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-03--cert-roadmap)
-[![projects](https://img.shields.io/badge/-04_projects-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-04--pinned-projects)
-[![stack](https://img.shields.io/badge/-05_stack-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-05--stack)
-[![contact](https://img.shields.io/badge/-06_contact-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-06--contact)
+[![certs](https://img.shields.io/badge/-02_certs-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-02--cert-roadmap)
+[![projects](https://img.shields.io/badge/-03_projects-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-03--pinned-projects)
+[![stack](https://img.shields.io/badge/-04_stack-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-04--stack)
+[![contact](https://img.shields.io/badge/-05_contact-00b4d8?style=for-the-badge&labelColor=0a0e27)](#-05--contact)
 
 </div>
 
@@ -54,41 +37,15 @@ analyst:
 
 ## `▸ 01 ·` ABOUT
 
-I'm **Sarvarbek Fazliddinov**, a Computer Science senior at **Southern New Hampshire University** concentrating in Data Analytics, graduating May 2026. This Fall I'll be starting my **M.S. in Cybersecurity at Georgia Tech (OMSCY, Information Security track)**.
+I'm a Computer Science senior at **Southern New Hampshire University** concentrating in Data Analytics, graduating May 2026. This Fall I'll be starting my **M.S. in Cybersecurity at Georgia Tech** (OMSCY, Information Security track).
 
-My focus is **blue team security operations**: detection engineering, SIEM tuning, incident response, and threat hunting. I'm preparing to step into a **SOC Tier 1 Analyst** role, and I spend most of my time building home labs, writing detection rules, and documenting the work end to end so another analyst can pick up where I left off.
+My focus is blue team security operations: detection engineering, SIEM tuning, incident response, and threat hunting. I'm preparing to step into a **SOC Tier 1 Analyst** role, and I spend most of my time building home labs, writing detection rules, and documenting the work end to end.
 
 Previously I interned as a **Software Engineer at Walmart Global Tech**, where I shipped enterprise features that cut page load time by 18%, lifted adoption by 25%, and drove roughly $120K in annual savings through automation.
 
-Long term: CISO track. Short term: catch the alerts nobody else catches.
-
 ---
 
-## `▸ 02 ·` CURRENT OPS
-
-```text
-╔══════════════════════════════════════════════════════════════════════════╗
-║  ACTIVE ENGAGEMENTS                                      [LIVE · 24/7]   ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   ▸ SOC Tier 1 job search . . . . . . . . . . . . . . . . . . [OPEN]    ║
-║       └─ Northwest Arkansas · remote · willing to relocate               ║
-║                                                                          ║
-║   ▸ CySA+ preparation . . . . . . . . . . . . . . . . . . [IN PROGRESS] ║
-║       └─ Jason Dion materials · targeting near-term pass                 ║
-║                                                                          ║
-║   ▸ phishlab development. . . . . . . . . . . . . . . . . . . [ACTIVE]  ║
-║       └─ ML classifier + IOC extractor + analyst dashboard               ║
-║                                                                          ║
-║   ▸ Home lab detection engineering . . . . . . . . . . . . . [ONGOING]  ║
-║       └─ Wazuh + OpenSearch · Splunk Enterprise + Active Directory       ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `▸ 03 ·` CERT ROADMAP
+## `▸ 02 ·` CERT ROADMAP
 
 <div align="center">
 
@@ -108,17 +65,15 @@ Long term: CISO track. Short term: catch the alerts nobody else catches.
 
 ---
 
-## `▸ 04 ·` PINNED PROJECTS
+## `▸ 03 ·` PINNED PROJECTS
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎣 [phishlab](https://github.com/sfazliddinov385/phishlab)
+### [phishlab](https://github.com/sfazliddinov385/phishlab)
 
-> AI-powered phishing email triage
-
-Classifies inbound mail with an ML model, extracts IOCs (URLs, domains, sender infrastructure, attachments), and surfaces them in an analyst dashboard so a Tier 1 SOC can triage faster than opening each `.eml` by hand.
+AI-powered phishing email triage tool. Classifies inbound mail with an ML model, extracts IOCs (URLs, domains, sender infrastructure, attachments), and surfaces them in an analyst dashboard.
 
 ```text
 ┌─ stack ────────────────────────┐
@@ -135,11 +90,9 @@ Classifies inbound mail with an ML model, extracts IOCs (URLs, domains, sender i
 </td>
 <td width="50%" valign="top">
 
-### 📈 [walmart-stock-tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)
+### [walmart-stock-tracker](https://github.com/sfazliddinov385/walmart-stock-tracker)
 
-> Real-time equities dashboard
-
-Interactive Streamlit dashboards with live price pulls, SMA / EMA / RSI indicators, and Plotly visualizations. A data analytics side project that keeps the Python and visualization muscles active.
+Real-time stock tracker with interactive Streamlit dashboards and technical indicators (SMA, EMA, RSI).
 
 ```text
 ┌─ stack ────────────────────────┐
@@ -159,7 +112,7 @@ Interactive Streamlit dashboards with live price pulls, SMA / EMA / RSI indicato
 
 ---
 
-## `▸ 05 ·` STACK
+## `▸ 04 ·` STACK
 
 <div align="center">
 
@@ -200,15 +153,9 @@ Interactive Streamlit dashboards with live price pulls, SMA / EMA / RSI indicato
 
 ---
 
-## `▸ 06 ·` CONTACT
+## `▸ 05 ·` CONTACT
 
 <div align="center">
-
-```text
-  ╭─────────────────────────────────────────────────────────╮
-  │   LINE IS OPEN · REACHING OUT IS ENCOURAGED             │
-  ╰─────────────────────────────────────────────────────────╯
-```
 
 <a href="https://www.linkedin.com/in/sarvarbekfazliddinov/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -222,6 +169,6 @@ Interactive Streamlit dashboards with live price pulls, SMA / EMA / RSI indicato
 
 <br/><br/>
 
-📍 &nbsp; **Bentonville, Arkansas** &nbsp;·&nbsp; open to remote + relocation for the right SOC role
+Based in **Bentonville, Arkansas**. Open to remote + relocation.
 
 </div>
