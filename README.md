@@ -2,12 +2,6 @@
 
 <a href="https://github.com/sfazliddinov385">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Beck+%F0%9F%91%8B;Blue+Team+Focused" alt="Typing animation" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sfazliddinov385&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/sfazliddinov385?label=FOLLOWERS&style=for-the-badge&color=00b4d8&labelColor=0a0e27" alt="followers"/>
 
 </div>
 
@@ -37,7 +31,7 @@ focus:       detection engineering · SIEM · incident response · threat huntin
 
 ## `▸ 01 ·` ABOUT
 
-I'm a Computer Science senior at **Southern New Hampshire University** concentrating in Data Analytics, graduating May 2026. This Fall I'll be starting my **M.S. in Cybersecurity at Georgia Tech** ( Information Security track).
+I'm a Computer Science senior at **Southern New Hampshire University** concentrating in Data Analytics, graduating May 2026. This Fall I'll be starting my **M.S. in Cybersecurity at Georgia Tech** (OMSCY, Information Security track).
 
 My focus is blue team security operations: detection engineering, SIEM tuning, incident response, and threat hunting. I'm preparing to step into a **SOC Tier 1 Analyst** role, and I spend most of my time building home labs, writing detection rules, and documenting the work end to end.
 
@@ -49,7 +43,7 @@ Previously I interned as a **Software Engineer at Walmart Global Tech**, where I
 
 <div align="center">
 
-| &nbsp;&nbsp;EARNED&nbsp;&nbsp; | &nbsp;&nbsp;IN Progress&nbsp;&nbsp; | &nbsp;&nbsp;QUEUED&nbsp;&nbsp; |
+| &nbsp;&nbsp;EARNED&nbsp;&nbsp; | &nbsp;&nbsp;IN FLIGHT&nbsp;&nbsp; | &nbsp;&nbsp;QUEUED&nbsp;&nbsp; |
 |:---:|:---:|:---:|
 | ✅ CompTIA A+ | 🟡 CompTIA CySA+ | ⬜ BTL1 |
 | ✅ CompTIA Security+ | | ⬜ Splunk Core Certified User |
@@ -142,12 +136,6 @@ Real-time stock tracker with interactive Streamlit dashboards and technical indi
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### `// frameworks`
-
-![NIST CSF](https://img.shields.io/badge/NIST%20CSF-005288?style=for-the-badge&logoColor=white)
-![NIST 800-53](https://img.shields.io/badge/NIST%20800--53-005288?style=for-the-badge&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-00529B?style=for-the-badge&logoColor=white)
 
 </div>
 
