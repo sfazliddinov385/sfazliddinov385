@@ -37,7 +37,7 @@ focus:       detection engineering · SIEM · incident response · threat huntin
 
 ## `▸ 01 ·` ABOUT
 
-I'm a Computer Science senior at **Southern New Hampshire University** concentrating in Data Analytics, graduating May 2026. This Fall I'll be starting my **M.S. in Cybersecurity at Georgia Tech** (OMSCY, Information Security track).
+I'm a Computer Science senior at **Southern New Hampshire University** concentrating in Data Analytics, graduating May 2026. This Fall I'll be starting my **M.S. in Cybersecurity at Georgia Tech** ( Information Security track).
 
 My focus is blue team security operations: detection engineering, SIEM tuning, incident response, and threat hunting. I'm preparing to step into a **SOC Tier 1 Analyst** role, and I spend most of my time building home labs, writing detection rules, and documenting the work end to end.
 
