@@ -65,66 +65,46 @@ Previously I interned as a **Software Engineer at Walmart Global Tech**, where I
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### [Sentinel AI Triage Agent](https://github.com/sfazliddinov385/sentinel-triage-agent)
+### [AI Sentinel Triage Agent](https://github.com/sfazliddinov385/ai-sentinel-triage-agent)
 
 AI agent on a live Microsoft Sentinel workspace. Writes its own KQL, pulls sign-in and audit logs, and returns a triage verdict with a timeline and response steps. MITRE-mapped detections for account takeover and BEC.
 
 ```text
-┌─ stack ──────────────┐
-│ Sentinel · KQL       │
-│ Azure · Claude API   │
-│ MITRE ATT&CK         │
-└──────────────────────┘
+┌─ stack ────────────────┐
+│  Sentinel · KQL        │
+│  Azure · Claude API    │
+│  MITRE ATT&CK          │
+└────────────────────────┘
 ```
 
-<a href="https://github.com/sfazliddinov385/sentinel-triage-agent">
+<a href="https://github.com/sfazliddinov385/ai-sentinel-triage-agent">
   <img src="https://img.shields.io/badge/-VIEW%20REPO-00b4d8?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
 </a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### [Splunk Detection Lab](https://github.com/sfazliddinov385/Detection-Lab)
+### [Network Traffic Investigations](https://github.com/sfazliddinov385/threat-investigations)
 
-Three-VM lab with four detections across four log sources, covering a full intrusion: brute force, encoded PowerShell, registry persistence, and C2 beaconing. Each mapped to MITRE ATT&CK and the Cyber Kill Chain.
-
-```text
-┌─ stack ──────────────┐
-│ Splunk · Sysmon      │
-│ SPL · Sigma          │
-│ Atomic Red Team      │
-└──────────────────────┘
-```
-
-<a href="https://github.com/sfazliddinov385/Detection-Lab">
-  <img src="https://img.shields.io/badge/-VIEW%20REPO-00b4d8?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
-</a>
-
-</td>
-<td width="33%" valign="top">
-
-### [Network Traffic Investigations](https://github.com/sfazliddinov385/network-traffic-investigations)
-
-Real malicious PCAPs worked end to end in Wireshark. Identify the infected host, the user, and the C2 infrastructure, and separate the real threat from benign telemetry and CDN noise.
+Real malicious packet captures worked end to end in Wireshark. Find the infected host, the user, and the C2 infrastructure, and separate the real threat from benign telemetry and CDN noise.
 
 ```text
-┌─ stack ──────────────┐
-│ Wireshark · PCAP     │
-│ NBNS · Kerberos      │
-│ DNS · MITRE ATT&CK   │
-└──────────────────────┘
+┌─ stack ────────────────┐
+│  Wireshark · PCAP      │
+│  NBNS · Kerberos       │
+│  DNS · MITRE ATT&CK    │
+└────────────────────────┘
 ```
 
-<a href="https://github.com/sfazliddinov385/network-traffic-investigations">
+<a href="https://github.com/sfazliddinov385/threat-investigations">
   <img src="https://img.shields.io/badge/-VIEW%20REPO-00b4d8?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
 </a>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## `▸ 04 ·` STACK
